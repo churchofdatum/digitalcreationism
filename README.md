@@ -32,9 +32,12 @@ Any language is welcomed, and contents in all the language don't have to be the 
 
 ### To do list & the progress
 - Release a website 
+　-> It's out! http://digitalcreationism.com (Oct 29)
 - Introduce SCSS
 - Build a system that simple .txt files can be loaded in html automatically
-- Have the text in English and Japanese -> We also have Russian! (Oct 26)
+- Have the text in English and Japanese 
+  -> We also have Russian! (Oct 26)
+  -> Japanese started (Oct 26)
 
 ---
 
