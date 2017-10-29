@@ -13,10 +13,34 @@ There is no intention of offending enyone. I ofcourse respect Jewishism and Chri
 
 ---
 
-### Where is this going?
-There is no set direction or what the content would be, but here's some ideas:
-- Create a website
-- Have the text in English and Japanese
+### Basic Rules
+- Anyone can commit and send push
+- Anyone can update the contents
+- BUT do not include followings: racism, sexism, violence, or political contents
+
+---
+
+### How can you contribute?
+- By writing new verses or chapters in the language(s) that you prefer
+- By translating other languages into your language 
+- BUT do not Google Translate into/from languages you do not know.
+
+Note:
+Any language is welcomed, and contents in all the language don't have to be the same. I'm open to having different contents in different languages(like so in Wikipedia)🙂
+
+---
+
+### To do list & the progress
+- Release a website 
+- Introduce SCSS
+- Build a system that simple .txt files can be loaded in html automatically
+- Have the text in English and Japanese -> We also have Russian! (Oct 26)
+
+---
+
+### Idea list (Open for more &/or better ideas)
 - Old Testament: up until the end of Web 2.0
 - New Testament: after Steve Jobs
 - Apocalypse: Singularity
+- Sins: checking different browzers and devices
+- Judas: IE
