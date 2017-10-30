@@ -9,7 +9,7 @@ I have very little experience with GitHub and programming, so I may need your he
 ### About the project
 This is a project started on Oct 20, 2017. 
 Nothing serious, I thought it would be fun to write the whole new Bible in digital context.
-There is no intention of offending enyone. I ofcourse respect Jewishism and Christianity :)
+Digital Creationism respects, appreciates and celebrates all religions :)
 
 ---
 
