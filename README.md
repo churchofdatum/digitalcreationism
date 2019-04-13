@@ -1,13 +1,13 @@
-# digitalcreationism
+# Digital Creationism
 
 ### About Me
-I'm a Japanese designer living Tokyo. I have been designing web apps, mobile apps, and some graphic design stuff. 
+I'm a Japanese designer living Tokyo. I have been designing web apps, mobile apps, and some graphic design stuff.
 I have very little experience with GitHub and programming, so I may need your help organizing the project here!
 
 ---
 
 ### About the project
-This is a project started on Oct 20, 2017. 
+This is a project started on Oct 20, 2017.
 Nothing serious, I thought it would be fun to write the whole new Bible in digital context.
 Digital Creationism respects, appreciates and celebrates all religions :)
 
@@ -22,8 +22,8 @@ Digital Creationism respects, appreciates and celebrates all religions :)
 
 ### How can you contribute?
 - By writing new verses or chapters in the language(s) that you prefer
-- By translating other languages into your language 
-- BUT do not Google Translate into/from languages you do not know.
+- By translating other languages into your language
+- BUT do not Google Translate into/from languages you do not know
 
 Note:
 Any language is welcomed, and contents in all the language don't have to be the same. I'm open to having different contents in different languages(like so in Wikipedia)🙂
