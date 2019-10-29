@@ -8,5 +8,9 @@
   "scripts": {
     "dev": "vuepress dev books",
     "build": "vuepress build books"
+  },
+  "dependencies": {
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0"
   }
 }
