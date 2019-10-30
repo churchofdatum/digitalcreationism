@@ -3,6 +3,7 @@
   "version": "0.1",
   "private": true,
   "devDependencies": {
+    "normalize.css": "^8.0.1",
     "vuepress": "^1.2.0"
   },
   "scripts": {
