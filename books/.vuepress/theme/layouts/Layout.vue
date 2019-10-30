@@ -26,5 +26,9 @@
               | FI
   main
     Content
+    Content(slot-key="about")
+  footer
+    small
+      | © 2019 Digital Creationism
 </template>
 
