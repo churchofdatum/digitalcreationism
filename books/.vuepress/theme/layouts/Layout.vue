@@ -1,8 +1,8 @@
 <template lang="pug">
 .theme-container
-  section.hero
-    .hero-container
-      .hero-hello-world
+  section.cover
+    .cover-container
+      .cover-hello-world
         h1
           | And God said,
           br

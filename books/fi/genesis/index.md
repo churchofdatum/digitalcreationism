@@ -36,11 +36,3 @@ This is the account of Noah and his websites.
 Noah was a righteous man, a full stack, blameless among the people of his time, and he walked faithfully with God. Noah could build anything he could have imagined.
 
 Now the web was corrupt in God’s sight and was full of violence.  God saw how corrupt the web had become, for all the people on web had corrupted their ways. So God said to Noah, “I am going to put an end to all people, for the web is filled with two-digit field for years because of them. I am surely going to destroy both them and the web.
-
-
-::: slot about
-## About This Project
-This is a project started on Oct 20, 2017. Nothing serious, I thought it would be fun to write the whole new Bible in digital context. There is no intention of offending enyone. Digital Creationism respects, appreciates and celebrates all religions `:)` Looking for peeps who can help me build Digital Creationism on GitHub. If you have ideas for any verses or chapters, feel free to send me a pull request.
-
-Praise be to you and your gigabytes 🙌🏻
-:::
