@@ -26,7 +26,6 @@ module.exports = {
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
     ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Noto+Serif|Roboto+Condensed|Roboto+Slab&display=swap' }],
-    ['link', { rel: 'stylesheet', href: '/normalize.css' }],
   ],
   ga: 'UA-138344651-1',
   markdown: {

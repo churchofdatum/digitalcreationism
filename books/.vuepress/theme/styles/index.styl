@@ -32,7 +32,7 @@ a
   display flex
   justify-content center
   align-items center
-  height 100vh
+  height 80vh
 
 .cover-container
   display flex
@@ -55,18 +55,21 @@ a
   justify-content center
   align-items center
 
-h1
+.cover-hello-world h1
+  display flex
+  flex-direction column
   font-size 2rem
   text-align center
 
-  .blink
+  .header-anchor
+    display none
+
+  em
     font-size 4rem
     font-style normal
     font-weight normal
     line-height 9rem
-
-.blink
-  animation blink 3s ease-out 0s infinite
+    animation blink 3s ease-out 0s infinite
 
 @keyframes blink
   50%
@@ -124,6 +127,7 @@ h1, h2, h3, h4, h5
   padding 7%
 
 .content__default h1
+  text-align center
   font-size 4.0rem
   font-weight normal
 

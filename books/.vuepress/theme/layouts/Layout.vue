@@ -3,11 +3,7 @@
   section.cover
     .cover-container
       .cover-hello-world
-        h1
-          | And God said,
-          br
-          i.blink
-            | "Hello World!"
+        Content(slot-key="cover")
         cite.hash-tag
           | #DigitalCreationism
       nav
@@ -25,10 +21,19 @@
             a(href="/fi")
               | FI
   main
-    Content
+    Content(v-if="!($page.frontmatter.home)")
     Content(slot-key="about")
   footer
     small
       | © 2019 Digital Creationism
 </template>
 
+<script>
+export default {
+  data() {
+    return {
+
+    }
+  }
+}
+</script>

@@ -1,5 +1,8 @@
 # Next up
-- Content section styling
+- Componentize language nav list
+- Display languages automatically by adding config
+- [x]Display cover text as each languages
+- [x]Content section styling
 
 # About This Project
 - Divide .md files, index.md and about.md for each languages
